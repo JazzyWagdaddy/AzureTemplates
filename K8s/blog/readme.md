@@ -38,6 +38,11 @@ The last option to deploy an orchestrator is to deploy generic Azure VMs and ins
 
 **Azure Container Instance - Kubernetes Connector**: Use this service to have your cluster burst its computing capacity for short periods of time.
 
+## Community Call
+If you'd like to hear more on this topic, we encourage you to attend the Microsoft Azure Apps and Infrastructure Community Call on Friday November 17th.  We'll have a conversational dialogue between two technology professionals that is designed to appeal to both technical professionals as well as sales or business professionals; providing insight to what is most important in the Microsoft Partner Ecosystem. One person will talk about Containers from an Infrastructure perspective, the other from an application development perspective. No death by PowerPoint!
+
+Please register at the following link: https://msuspartner.eventbuilder.com/event?eventid=h9r2x7
+
 # References
 * [Case Study](https://azure.microsoft.com/en-us/resources/videos/docker-metlife/) 
 * [AKS Announcement Video](https://azure.microsoft.com/en-us/resources/videos/azure-friday-managed-kubernetes-in-azure-container-service-aks/)
